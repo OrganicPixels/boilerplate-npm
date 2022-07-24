@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"auther": "Jason Griffith",
+	"author": "Jason Griffith",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
